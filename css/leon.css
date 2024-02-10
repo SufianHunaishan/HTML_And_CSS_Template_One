@@ -274,6 +274,8 @@ color: var(--main-color);
 }
 .portoflio .portoflio-content .card {
   background-color: white;
+  display: flex;
+  flex-wrap: wrap;
 }
 .portoflio .portoflio-content .card img {
   min-width: 100%;
